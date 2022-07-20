@@ -1,0 +1,8 @@
+version: '3.9'
+services:
+  sh:
+    image: node:lts-alpine
+    working_dir: /opt/code
+    volumes:
+      - .:/opt/code
+    command: sh

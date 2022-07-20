@@ -1,0 +1,25 @@
+{
+  "name": "javascript-tutorial-rea",
+  "version": "0.0.1",
+  "description": "Tutorial project",
+  "main": "test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksaifullah/javascript-tutorial-rea.git"
+  },
+  "keywords": [
+    "tutorial"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksaifullah/javascript-tutorial-rea/issues"
+  },
+  "homepage": "https://github.com/ksaifullah/javascript-tutorial-rea#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
